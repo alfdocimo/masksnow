@@ -7,8 +7,10 @@ description: >-
   manufactured masks for healthcare workers.
 title: Donate to MasksNOW
 subTitle: Get masks to our front lines!
+featuredimage: /img/soc-test.jpg
 updatedDate: 2020-04-08T00:00:00.000Z
 ---
+
 Learn about [our mission, our fundraising goals, and the companies and groups who have partnered with us](https://masksnow.org/fundraising-goals/) in our efforts to get fabric masks to where they're needed.
 
 Created for Crisis (CFC), a founding member of the MasksNow Coalition, will be taking donations for the Coalition so your receipt will be coming from them. It’s a nonprofit incorporated in North Carolina with an application pending for a 501c3 tax exempt organization.
